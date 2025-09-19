@@ -1,0 +1,112 @@
+
+body {
+   
+    font-family:'Times New Roman', Times, serif;
+    padding: 10px;
+    background-color: rgb(0, 0, 0);
+}
+
+a {
+    color:rgb(255, 0, 0);
+    text-decoration: none;
+}
+
+
+.header img{
+    width: 30px;
+    height: 30px;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    margin-left:auto;
+    margin-right: auto;
+    gap: 60px;
+    font-size:50px;
+}
+
+.navactive a {
+    color:rgb(199, 136, 0);
+}
+
+.content {
+    margin-top:20px;  
+}
+
+
+.content img {
+    align-items:center;
+    display:flex;
+    width: 1000px;
+    height: 1070px;
+}
+
+.p {
+    margin-left:100px;
+}
+.section1 {
+    font-size:67px;
+    align-items: auto;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.wow  {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+
+.meow {
+    display:flex;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+
+.content1 img {
+    display:flex;
+    height: 500px;
+}
+
+.wow1 p{
+    align-items: center;
+    margin-left:10px;
+    color: rgb(255, 0, 0);
+    font-size:26px;
+}
+
+.section2 {
+    display: flex;
+    color:rgb(255, 255, 255);
+    font-size: 26px;
+}
+
+.lol {
+    display:flex;
+    margin-left: 20px;
+    color: azure;
+    font-size: 26px;
+
+}
+
+.section7 {
+    font-size:20px;
+    align-items: auto;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.class {
+        font-size:20px;
+    align-items: auto;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+
